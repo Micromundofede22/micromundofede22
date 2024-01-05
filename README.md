@@ -24,3 +24,7 @@ Hola👋
 
   <summary><h2>Estadísticas de GitHub</h2></summary> 
   <img src= "https://github-readme-stats.vercel.app/api?username=micromundofede22&show_icons=true&theme=transparent">
+
+    <summary><h2>Estadísticas </h2></summary>
+    <a href="https://github.com/micromundofede22/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micromundofede22&layout=compact&theme=tokyonight" /></a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=micromundofede22&theme=tokyonight" alt="fede" />
