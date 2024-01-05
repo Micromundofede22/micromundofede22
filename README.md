@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 Tengo tres nombres, pero mi preferido es Fede.
+- 😄 Tengo tres nombres, la gente me llama Fede, y mis alumnos Folmer.
 - 
 - 🔭 Actualmente trabajo como profesor en Biología. Mi objetivo es ir aumentando y consolidando conocimientos en programación, para trabajr 100% remoto, y aportar a la sociedad desde un nuevo lugar. 
 - 🌱 Soy desarrollador Full Stack, con amplia inclinación hacia el backend. 
