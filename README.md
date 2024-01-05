@@ -21,3 +21,6 @@ Hola👋
 
 
 - ⚡ Dato curioso: amo la filosofía y el camino espiritual de la Kábala judía.
+
+  <summary><h2>Estadísticas de GitHub</h2></summary> 
+  <img src= "https://github-readme-stats.vercel.app/api?username=micromundofede22&show_icons=true&theme=transparent">
