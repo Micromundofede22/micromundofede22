@@ -6,7 +6,7 @@
 <summary><h2>Lenguajes y herramientas</h2></summary> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,docker,postman,git,github,react,html,css&perline=9" />
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,docker,postman,git,github,react,html,css,vscode&perline=9" />
   </a>
 </p>
 
