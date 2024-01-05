@@ -1,3 +1,8 @@
+<p align="center">    
+    <a href="https://www.linkedin.com/in/federico-folmer-356130191/"><img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-231b2e?style=for-the-badge&logoColor=F8D866&logo=LinkedIn"/></a>
+    <a href="mailto:fedefolmer00@gmail.com@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/-Email-231b2e?style=for-the-badge&logoColor=F8D866&logo=gmail" alt="Email"></a>
+</p>
+
 ### Hi there 👋
 
 - 😄 Tengo tres nombres, la gente me llama Fede, y mis alumnos Folmer.
