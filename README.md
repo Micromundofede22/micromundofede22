@@ -20,7 +20,7 @@ Hola👋
 - 👯 Busco coolaborar en empresas cuya aplicación de la tecnología esté destinada al mejoramiento de la salud humana mental y la salud de nuestros ecosistemas. 
 
 
-- ⚡ Dato curioso: amo la filosofía y el camino espiritual de la Kábala judía.
+- ⚡ Dato curioso: amo la filosofía y el camino espiritual de la Kabalá.
 
     <summary><h2>Estadísticas </h2></summary>
     <a href="https://github.com/micromundofede22/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micromundofede22&layout=compact&theme=transparent" /></a>
