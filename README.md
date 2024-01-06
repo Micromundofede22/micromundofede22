@@ -1,3 +1,6 @@
+<p align="center"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=35AC08&center=true&vCenter=true&random=false&width=435&lines=Full+stack+developer;+Breaking+limits...;Back-end++%F0%9F%92%9A" alt="Typing SVG" /></a>
+</p>
 <p align="center">    
     <a href="https://www.linkedin.com/in/federico-folmer-356130191/"><img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-231b2e?style=for-the-badge&logoColor=F8D866&logo=LinkedIn"/></a>
     <a href="mailto:fedefolmer00@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/-Email-231b2e?style=for-the-badge&logoColor=F8D866&logo=gmail" alt="Email"></a>
