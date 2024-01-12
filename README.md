@@ -15,15 +15,21 @@
 
 <summary><h2>Biografía</h2></summary> 
 Hola👋
-```JavaScript
-var nombre= "La gente me llama Fede, mis alumnos Folmer"
-var profesión_actual= "Actualmente trabajo como profesor en Biología. Mi objetivo es ir aumentando y consolidando conocimientos en programación, para trabajr 100% remoto, y aportar a la sociedad desde un nuevo lugar."
+
+``` javascript
+const nombre= "La gente me llama Fede, mis alumnos Folmer"
+let profesión_actual= "Actualmente trabajo como profesor en Biología. Mi objetivo es ir aumentando y consolidando conocimientos
+                       en programación, para trabajr 100% remoto, y aportar a la sociedad desde un nuevo lugar."
+
+let estudios= "Desarrollador Full Stack, con amplia inclinación hacia el backend. "
+const objetivos= " Busco coolaborar en empresas cuya aplicación de la tecnología esté destinada al mejoramiento de la salud
+                   humana mental y la salud de nuestros ecosistemas. "
+const curiosidad= "amo la filosofía y el camino espiritual de la Kabalá."
 ```
-var estudios= "Desarrollador Full Stack, con amplia inclinación hacia el backend. "
-var objetivos= " Busco coolaborar en empresas cuya aplicación de la tecnología esté destinada al mejoramiento de la salud humana mental y la salud de nuestros ecosistemas. "
-var curiosidad= "amo la filosofía y el camino espiritual de la Kabalá."
+
 
 
 <summary><h2>Estadísticas </h2></summary>
 <a href="https://github.com/micromundofede22/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micromundofede22&layout=compact&theme=transparent" /></a>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=micromundofede22&theme=tokyonight" alt="fede" />
+
