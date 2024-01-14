@@ -17,14 +17,16 @@
 Hola👋
 
 ``` javascript
-const nombre= "La gente me llama Fede, mis alumnos Folmer"
-let profesión_actual= "Actualmente trabajo como profesor en Biología. Mi objetivo es ir aumentando y consolidando conocimientos
-                       en programación, para trabajr 100% remoto, y aportar a la sociedad desde un nuevo lugar."
-
-let estudios= "Desarrollador Full Stack, con amplia inclinación hacia el backend. "
-const objetivos= " Busco coolaborar en empresas cuya aplicación de la tecnología esté destinada al mejoramiento de la salud
-                   humana mental y la salud de nuestros ecosistemas. "
-const curiosidad= "amo la filosofía y el camino espiritual de la Kabalá."
+const yo= {
+        nombre: "La gente me llama Fede, mis alumnos Folmer";
+        profesión_actual: "Actualmente trabajo como profesor en Biología. Mi objetivo es ir aumentando y consolidando conocimientos
+                           en programación, para trabajr 100% remoto, y aportar a la sociedad desde un nuevo lugar.";
+        estudio1: "Profesor Universitario en Biología";
+        estudio2: "Desarrollador Full Stack, con amplia inclinación hacia el backend.";
+        objetivos: " Busco coolaborar en empresas cuya aplicación de la tecnología esté destinada al mejoramiento de la salud
+                   humana mental y la salud de nuestros ecosistemas.";
+        curiosidad: "amo la filosofía y el camino espiritual de la Kabalá.";
+};
 ```
 
 
