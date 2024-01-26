@@ -6,7 +6,7 @@
     <a href="mailto:fedefolmer00@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/-Email-231b2e?style=for-the-badge&logoColor=238012&logo=gmail" alt="Email"></a>
 </p>
 
-<summary><h2>Habilidades</h2></summary> 
+<summary><h2>Habilidades</h2></summary>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,docker,postman,git,github,react,html,css,vscode&perline=9" />
